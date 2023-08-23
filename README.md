@@ -3,5 +3,5 @@
  <br></br>
      - Aulas teóricas e práticas:
  <br></br>
-  🔗 Link [https://www.cursoemvideo.com]
+  🔗 Link [https://www.cursoemvideo.com/curso/java-poo/aulas/java-poo/]
      
